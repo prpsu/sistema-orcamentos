@@ -1,16 +1,16 @@
 # 🧾 Sistema de Orçamentos
 
-Sistema web desenvolvido para geração de orçamentos de forma automatizada, com foco em negócios que trabalham com cálculo por metro quadrado.
+Sistema web para geração de orçamentos automatizados, desenvolvido para negócios que trabalham com cálculo por metro quadrado e venda de itens.
 
 ---
 
 ## 🚀 Funcionalidades
 
-* Cálculo automático por m²
-* Adição de itens ao orçamento
-* Controle de valores e totais
-* Estrutura pronta para envio de orçamento
-* Integração com banco de dados (Firebase)
+* Cálculo automático de valores
+* Adição de múltiplos itens
+* Controle de total do orçamento
+* Estrutura para envio ao cliente
+* Integração com Firebase
 
 ---
 
@@ -24,23 +24,22 @@ Sistema web desenvolvido para geração de orçamentos de forma automatizada, co
 
 ---
 
-## 📸 Prints do sistema
+## 📸 Preview
 
-![Tela 1](./assets/tela1.png)
-![Tela 2](./assets/tela2.png)
+![Tela do sistema](./assets/Tela1.png)
 
 ---
 
-## ▶️ Como rodar o projeto
+## ▶️ Como executar
 
-1. Baixe o projeto
+1. Clone o repositório
 2. Abra o arquivo `index.html` no navegador
 
 ---
 
 ## 💡 Sobre o projeto
 
-Este sistema foi desenvolvido com foco em aplicação real para geração de orçamentos, podendo ser utilizado como base para sistemas comerciais.
+Este sistema foi desenvolvido com foco em aplicação real para geração de orçamentos comerciais, podendo ser utilizado como base para sistemas de vendas e gestão.
 
 ---
 
