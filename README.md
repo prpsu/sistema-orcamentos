@@ -26,7 +26,7 @@ Sistema web para geração de orçamentos automatizados, desenvolvido para negó
 
 ## 📸 Preview
 
-![Tela do sistema](./assets/Tela1.png)
+![Tela do sistema](assets/Tela1.png)
 
 ---
 
