@@ -25,8 +25,10 @@ Sistema web para geração de orçamentos automatizados, desenvolvido para negó
 ---
 
 ## 📸 Preview
-
+Tela Lista de orcamentos
 ![Tela do sistema](https://github.com/prpsu/sistema-orcamentos/blob/main/assets/Tela1.PNG)
+
+Tela gerar orcamento
 ![Tela do sistema](https://github.com/prpsu/sistema-orcamentos/blob/main/assets/Tela2.PNG)
 ---
 
